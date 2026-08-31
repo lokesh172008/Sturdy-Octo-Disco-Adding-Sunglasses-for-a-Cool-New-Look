@@ -10,6 +10,7 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Works seamlessly with individual passport-size photos.
 - Customizable for different sunglasses styles or photo types.
 
+
 ## Technologies Used:
 - Python
 - OpenCV for image processing
