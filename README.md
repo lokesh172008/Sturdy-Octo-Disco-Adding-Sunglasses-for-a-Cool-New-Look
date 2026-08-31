@@ -133,9 +133,13 @@ plt.show()
 ```
 ### Output
 <img width="410" height="432" alt="638196920-62b09deb-244f-4d90-914c-5e9119be5741" src="https://github.com/user-attachments/assets/3fb7b846-56af-4a4a-97f2-e3885b057d51" />
+
 <img width="567" height="566" alt="638200196-6900540c-695d-4d52-8f59-b147f5c3d48f" src="https://github.com/user-attachments/assets/2bb3dea0-d1eb-4518-9ba1-d17025c92c20" />
+
 <img width="1442" height="676" alt="638197857-04155b25-6830-4a7d-b89d-27f6f31366a5" src="https://github.com/user-attachments/assets/0b400771-3cd6-45c8-ac3b-1c7622e79024" />
+
 <img width="627" height="627" alt="638200764-e6a24e7e-5114-4601-9c10-f66b77b19d21" src="https://github.com/user-attachments/assets/04f791b5-4d4c-46eb-8f0b-b5b0b2adbc2d" />
+
 
 ### Result
 Program for adding Sunglasses to a Passport Photo Using OpenCV, Successfully executed
